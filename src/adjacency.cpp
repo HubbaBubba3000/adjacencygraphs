@@ -1,4 +1,3 @@
-
 #include <vector>
 
 std::vector<int> adjacency_matrix {
